@@ -1,0 +1,77 @@
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\bin\Debug\VeriTabani.exe.config
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\bin\Debug\VeriTabani.exe
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\bin\Debug\VeriTabani.pdb
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\bin\Debug\MySql.Data.dll
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\bin\Debug\MySql.Data.xml
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\obj\Debug\VeriTabani.csprojResolveAssemblyReference.cache
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\obj\Debug\VeriTabani.Form1.resources
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\obj\Debug\VeriTabani.Properties.Resources.resources
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\obj\Debug\VeriTabani.csproj.GenerateResource.Cache
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\obj\Debug\VeriTabani.csproj.CoreCompileInputs.cache
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\obj\Debug\VeriTabani.exe
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\obj\Debug\VeriTabani.pdb
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\obj\Debug\VeriTabani.VeriEkle.resources
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\obj\Debug\VeriTabani.IslemSec.resources
+C:\Users\esra_\source\repos\VeriTabani\VeriTabani\obj\Debug\VeriTabani.Listele.resources
+C:\Users\esra_\source\repos\Veritabani\VeriTabani\obj\Debug\VeriTabani.VeriGuncelle.resources
+C:\Users\esra_\source\repos\Veritabani\VeriTabani\obj\Debug\VeriTabani.VeriSil.resources
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\bin\Debug\VeriTabani.exe.config
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\bin\Debug\VeriTabani.exe
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\bin\Debug\VeriTabani.pdb
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\bin\Debug\MySql.Data.dll
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\bin\Debug\MySql.Data.xml
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\obj\Debug\VeriTabani.csprojResolveAssemblyReference.cache
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\obj\Debug\VeriTabani.Form1.resources
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\obj\Debug\VeriTabani.IslemSec.resources
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\obj\Debug\VeriTabani.Listele.resources
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\obj\Debug\VeriTabani.Properties.Resources.resources
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\obj\Debug\VeriTabani.VeriEkle.resources
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\obj\Debug\VeriTabani.VeriGuncelle.resources
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\obj\Debug\VeriTabani.VeriSil.resources
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\obj\Debug\VeriTabani.csproj.GenerateResource.Cache
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\obj\Debug\VeriTabani.csproj.CoreCompileInputs.cache
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\obj\Debug\VeriTabani.exe
+C:\Users\esra_\Desktop\VeriTabani - Kopya\VeriTabani\obj\Debug\VeriTabani.pdb
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\bin\Debug\VeriTabani.exe.config
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\bin\Debug\VeriTabani.exe
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\bin\Debug\VeriTabani.pdb
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\bin\Debug\MySql.Data.dll
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\bin\Debug\MySql.Data.xml
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\obj\Debug\VeriTabani.csprojResolveAssemblyReference.cache
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\obj\Debug\VeriTabani.Form1.resources
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\obj\Debug\VeriTabani.IslemSec.resources
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\obj\Debug\VeriTabani.Listele.resources
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\obj\Debug\VeriTabani.Properties.Resources.resources
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\obj\Debug\VeriTabani.VeriEkle.resources
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\obj\Debug\VeriTabani.VeriGuncelle.resources
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\obj\Debug\VeriTabani.VeriSil.resources
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\obj\Debug\VeriTabani.csproj.GenerateResource.Cache
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\obj\Debug\VeriTabani.csproj.CoreCompileInputs.cache
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\obj\Debug\VeriTabani.exe
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\obj\Debug\VeriTabani.pdb
+C:\Users\esra_\Desktop\VeriTabani\VeriTabani\obj\Debug\VeriTabani.Kaydol.resources
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\bin\Debug\VeriTabani.exe.config
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\bin\Debug\VeriTabani.exe
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\bin\Debug\VeriTabani.pdb
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\bin\Debug\MySql.Data.xml
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\obj\Debug\VeriTabani.csprojAssemblyReference.cache
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\obj\Debug\VeriTabani.Form1.resources
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\obj\Debug\VeriTabani.IslemSec.resources
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\obj\Debug\VeriTabani.Kaydol.resources
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\obj\Debug\VeriTabani.Listele.resources
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\obj\Debug\VeriTabani.Properties.Resources.resources
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\obj\Debug\VeriTabani.VeriEkle.resources
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\obj\Debug\VeriTabani.VeriGuncelle.resources
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\obj\Debug\VeriTabani.VeriSil.resources
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\obj\Debug\VeriTabani.csproj.GenerateResource.cache
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\obj\Debug\VeriTabani.csproj.CoreCompileInputs.cache
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\obj\Debug\VeriTabani.csproj.CopyComplete
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\obj\Debug\VeriTabani.exe
+C:\Users\esra_\Desktop\Dersler\Ödevler\150202027-150202053 Veri Tabani\VeriTabani\VeriTabani\obj\Debug\VeriTabani.pdb
